@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Zariul
+- 👀 I’m interested in Python and C#
+- 🌱 I’m currently learning Python and Java
